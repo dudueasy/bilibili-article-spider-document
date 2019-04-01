@@ -32,10 +32,8 @@ REDIS_SERVER_PORT: redis 服务器运行的端口
 
 ID_SET_TO_REDIS_KEY: 用作 id 缓存的集合键名
 
-# --the key of retrieved resource Ids set in redis
 RETRIEVED_ID_SET_TO_REDIS_KEY: 获取到的资源 id 集合键名
 
-# --the key of failed resource Ids set in redis
 FAILED_ID_SET_TO_REDIS_KEY : 获取失败的资源 id 集合键名
 
 
